@@ -8,7 +8,7 @@
 学生可以选择自己的宿舍、申请调换宿舍、对损坏的家具进行报修、查看管理员发布的公告。<br>
 前端使用Vue框架，后端使用SpringBoot框架，数据库使用的是Mysql。<br>
 本系统功能完善，涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为设计项目或开发学习。<br>
-视频介绍：<a href="https://www.bilibili.com/video/BV1p84y1U79e/?spm_id_from=333.999.0.0" target="_blank">点击查看B站视频介绍</a>
+视频介绍：<a href="https://www.bilibili.com/video/BV15u41137Ta/?spm_id_from=333.999.0.0" target="_blank">点击查看B站视频介绍</a>
 
 ## 功能介绍
 
