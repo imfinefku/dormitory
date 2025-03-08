@@ -61,5 +61,5 @@
 <img src="./images/9.jpg" width="600" height="300" /><br>
 #### 10.学生报修
 <img src="./images/10.jpg" width="600" height="300" /><br>
-#### 10.学生查看公告
+#### 11.学生查看公告
 <img src="./images/11.jpg" width="600" height="300" /><br>
